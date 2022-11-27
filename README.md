@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-.. image:: https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg
-    :target: https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0
+<a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
 
 [![wakatime](https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg)](https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0)
 {<img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg" alt="wakatime" />}[https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0]

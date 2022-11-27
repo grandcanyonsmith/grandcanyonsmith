@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
+Coding time since Sept. 1st
 
+<a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
+<!-- 
 **grandcanyonsmith/grandcanyonsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,9 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-START_SECTION:waka
-END_SECTION:waka
-
-image:https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg["wakatime", link="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"]
-
-
+<!-- START_SECTION:waka
+END_SECTION:waka -->

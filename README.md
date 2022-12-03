@@ -21,10 +21,7 @@
     <h2>Top 3 languages used</h2>
     <div style="display:flex;flex-direction:row;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> React
-Copy code
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> Python
-    
-    
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20"/> Bash
     
 </div>

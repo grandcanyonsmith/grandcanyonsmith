@@ -1,30 +1,43 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<h1>Coding Statistics</h1>
-<div style="display:flex;flex-direction;row">
-<div>
-<h2 style="width:50%;">Past 7 days</h2>
-  </div>
-<div>
-<h2 style="width:50%;">Past 30 days</h2>
-  </div>
-</div>
-<div style="display:flex;">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/49d1f8e9-ae3c-4947-8635-ab9dafaaca7e.png" style="width:49%;" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/4f9fd1d4-18bd-4368-bbfb-b77776ce1107.png" style="width:49%;" /></a>
-</div>
-<h2>Since Sept. 1st</h2>
-<a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
-<h2>Top 5 languages used</h2>
-<ul>
-         <li>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>React</li>
-
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> Python</li>
-  <li><img src="https://wakatime.com/static/img/icons/html.svg" width="20" height="20" /> HTML</li>
-  <li><img src="https://wakatime.com/static/img/icons/css.svg" width="20" height="20" /> CSS</li>
-  <li><img src="https://wakatime.com/static/img/icons/bash.svg" width="20" height="20" /> Bash</li>
-</ul>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <title>Coding Statistics</title>
+</head>
+<body>
+    <h1>Coding Statistics</h1>
+    <div style="display:flex;flex-direction;row">
+        <div>
+            <h2 style="width:50%;">Past 7 days</h2>
+        </div>
+        <div>
+            <h2 style="width:50%;">Past 30 days</h2>
+        </div>
+    </div>
+    <div style="display:flex;">
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/49d1f8e9-ae3c-4947-8635-ab9dafaaca7e.png" style="width:49%;" /></a>
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/4f9fd1d4-18bd-4368-bbfb-b77776ce1107.png" style="width:49%;" /></a>
+    </div>
+    <h2>Since Sept. 1st</h2>
+    <a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
+    <h2>Top 5 languages used</h2>
+    <ul>
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> Python
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" width="20" height="20"/> HTML
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" width="20" height="20"/> CSS
+        </li>
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20"/> Bash
+        </li>
+    </ul>
 <h2>Top 3 projects worked on</h2>
 <ol>
   <li>Personal website</li>

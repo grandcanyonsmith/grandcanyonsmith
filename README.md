@@ -2,7 +2,6 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <title>Coding Statistics</title>
 </head>
 <body>
     <h1>Coding Statistics</h1>
@@ -22,7 +21,7 @@
     <div style="display:flex;flex-direction:row;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> React
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> Python
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20"/> Bash
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/> Bash
     
 </div>
 <h2>Top 3 projects worked on</h2>

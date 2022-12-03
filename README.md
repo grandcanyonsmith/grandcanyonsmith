@@ -18,9 +18,9 @@
 <h2>Top 5 languages used</h2>
 <ul>
          
-           <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
-            </svg>           <li>
+            </svg>
 
   <li><img src="https://wakatime.com/static/img/icons/python.svg" width="20" height="20" /> Python</li>
   <li><img src="https://wakatime.com/static/img/icons/html.svg" width="20" height="20" /> HTML</li>

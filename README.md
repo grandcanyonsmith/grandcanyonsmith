@@ -17,19 +17,6 @@
     <a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
     <h2>Top languages</h2>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-
-<div style="display: flex; justify-content: space-between;">
-    <h2> Frontend:</h2>
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" height="100" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="100" style="margin: 0 10px;" />
-
-
-
 <div style="display: flex; justify-content: space-around;">
   <h2> Backend:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" style="margin: 0 10px;" />
@@ -41,7 +28,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" height="100" style="margin: 0 10px;" />
-
+    </div>
+<div style="display: flex; justify-content: space-between;">
+    <h2> Frontend:</h2>
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" height="100" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="100" style="margin: 0 10px;" />
 
 
 <div style="display: flex; justify-content: space-around;">

@@ -38,8 +38,12 @@
 <p>I primarily use Visual Studio Code for my coding needs. I find it to be a very versatile and user-friendly editor with great features for code navigation and debugging.</p>
 <h2>Overall coding experience</h2>
 <p>I have been coding for about 5 years and have experience in a variety of languages and frameworks. I am constantly learning and expanding my skillset to keep up with the ever-evolving world of technology.</p>
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="200" height="200">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="200" height="200">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="200" height="200">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+
+<div style="display: flex; justify-content: space-around;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="200" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="200" height="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+
+</div>
+
 </div>

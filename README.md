@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="100" style="margin: 0 10px;" />
-</div>
+
 
     <h1> Backend:</h1>
 <div style="display: flex; justify-content: space-around;">
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" height="100" style="margin: 0 10px;" />
-</div>
+
 
     <h1> Database:</h1>
 <div style="display: flex; justify-content: space-around;">

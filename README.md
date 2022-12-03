@@ -2,7 +2,7 @@
 <figure><embed src="https://wakatime.com/share/@canyonfsmith/4897e49b-c436-45dc-ba3c-26a90630da28.svg"></embed></figure>
 Coding time since Sept. 1st
 
-<a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"><figure><embed src="https://wakatime.com/share/@canyonfsmith/4897e49b-c436-45dc-ba3c-26a90630da28.svg"></embed></figure>
+<a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/49d1f8e9-ae3c-4947-8635-ab9dafaaca7e.png" /></a>
 <!-- 
 **grandcanyonsmith/grandcanyonsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

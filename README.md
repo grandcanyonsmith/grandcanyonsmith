@@ -19,9 +19,9 @@
     <a href="https://wakatime.com/@846109a2-0706-4c97-a610-1e90872121d0"><img src="https://wakatime.com/badge/user/846109a2-0706-4c97-a610-1e90872121d0.svg"></a>
     <h2>Top 3 languages used</h2>
     <div style="display:flex;flex-direction:row;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> React
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> Python
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/> Bash
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100"/> React
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/> Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100" height="100"/> Bash
     
 </div>
 <h2>Top 3 projects worked on</h2>

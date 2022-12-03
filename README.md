@@ -24,7 +24,7 @@
 
 
 <h1>Coding Statistics</h1>
-<div style="display:flex;">
+<div style="display:flex;flex-direction;row">
 <h2 style="width:50%;">Past 7 days</h2>
 <h2 style="width:50%;">Past 30 days</h2>
 </div>

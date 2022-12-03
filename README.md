@@ -23,16 +23,10 @@
     <h2>Top 5 languages used</h2>
     <ul>
         <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> React
         </li>
         <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> Python
-        </li>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" width="20" height="20"/> HTML
-        </li>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" width="20" height="20"/> CSS
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> Python
         </li>
         <li>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20"/> Bash

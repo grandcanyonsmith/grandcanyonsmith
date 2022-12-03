@@ -15,7 +15,7 @@
         </div>
     </div>
     <div style="display:flex;">
-        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/49d1f8e9-ae3c-4947-8635-ab9dafaaca7e.png" style="width:49%;" /></a>
+<li>        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/49d1f8e9-ae3c-4947-8635-ab9dafaaca7e.png" style="width:49%;" /></li></a>
         <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/4f9fd1d4-18bd-4368-bbfb-b77776ce1107.png" style="width:49%;" /></a>
     </div>
     <h2>Since Sept. 1st</h2>

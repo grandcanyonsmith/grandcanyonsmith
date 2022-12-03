@@ -20,7 +20,7 @@
          <li>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>React</li>
 
-  <li><img src="https://wakatime.com/static/img/icons/python.svg" width="20" height="20" /> Python</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> Python</li>
   <li><img src="https://wakatime.com/static/img/icons/html.svg" width="20" height="20" /> HTML</li>
   <li><img src="https://wakatime.com/static/img/icons/css.svg" width="20" height="20" /> CSS</li>
   <li><img src="https://wakatime.com/static/img/icons/bash.svg" width="20" height="20" /> Bash</li>

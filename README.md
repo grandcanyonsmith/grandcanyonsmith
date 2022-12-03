@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 
 <div style="display: flex; justify-content: space-between;">
- Frontend:
+    <h1> Frontend:</h1>
 <div style="display: flex; justify-content: space-around;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" style="margin: 0 10px;" />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="100" style="margin: 0 10px;" />
 </div>
 
-Backend:
+    <h1>Backend:</h1>
 <div style="display: flex; justify-content: space-around;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="100" style="margin: 0 10px;" />
@@ -42,7 +42,7 @@ Backend:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" height="100" style="margin: 0 10px;" />
 </div>
 
-Database:
+    <h1>Database:</h1>
 <div style="display: flex; justify-content: space-around;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="100" style="margin: 0 10px;" />

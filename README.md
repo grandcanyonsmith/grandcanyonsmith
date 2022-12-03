@@ -21,7 +21,9 @@
     <div style="display:flex;flex-direction:row;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100"/> React
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/> Python
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100" height="100"/> Bash
+
+            <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+          
     
 </div>
 <h2>Top 3 projects worked on</h2>

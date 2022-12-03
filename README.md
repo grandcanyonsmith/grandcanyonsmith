@@ -24,9 +24,13 @@
 
 
 <h1>Coding Statistics</h1>
-<div style="display:flex;flex-direction;column">
+<div style="display:flex;flex-direction;row">
+<div>
 <h2 style="width:50%;">Past 7 days</h2>
+  </div>
+<div>
 <h2 style="width:50%;">Past 30 days</h2>
+  </div>
 </div>
 <div style="display:flex;">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canyonfsmith/49d1f8e9-ae3c-4947-8635-ab9dafaaca7e.png" style="width:49%;" /></a>
